@@ -4,7 +4,7 @@ simple JavaScript functions - that make adding CSS attributes that change - base
 
 Just a single function command to make it all work!
 
-function changingBasedOnScreenSize(dynamicVar, classOfDevice, elem, attribute, newValue) {}
+```function changingBasedOnScreenSize(dynamicVar, classOfDevice, elem, attribute, newValue) {}```
 
 
 Example
